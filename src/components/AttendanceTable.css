@@ -1,0 +1,28 @@
+
+.prisustvo {
+	border: 1px solid silver;
+	border-bottom: 2px solid silver;
+}
+.prisustvo td, .prisustvo th {
+	padding: 3px 10px;
+	border-right: 1px solid silver;
+	font-size: 11px;
+}
+.prisustvo th {
+	 background-color: #CCC;
+}
+.prisustvo sup {
+	color: gray;
+}
+.prisutan {
+	background-color: #CCFFCC;
+	text-align:center;
+}
+.odsutan {
+	background-color: #FFCCCC;
+	text-align:center;
+}
+.nepoznato {
+	background-color: #FFFFCC;
+	text-align:center;
+}

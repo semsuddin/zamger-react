@@ -1,0 +1,37 @@
+{
+  "homepage": "https://zamger.etf.unsa.ba/v5",
+  "name": "semantic",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ajv": "^6.2.1",
+    "babel-eslint": "^8.2.2",
+    "prop-types": "^15.6.1",
+    "react": "^16.2.0",
+    "react-cookie": "^2.1.4",
+    "react-dom": "^16.2.0",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.1",
+    "rss-parser": "^3.1.1",
+    "semantic-ui-css": "^2.3.0",
+    "semantic-ui-react": "^0.78.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "lint": "eslint src/*.js src/*.jsx src/containers/*.js src/containers/*.jsx"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3"
+  },
+  "eslintConfig": {
+    "env": {
+      "browser": true,
+      "node": true
+    }
+  }
+}

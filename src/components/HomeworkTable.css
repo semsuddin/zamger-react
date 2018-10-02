@@ -1,0 +1,24 @@
+
+.zadace {
+	border: 1px solid silver;
+}
+.zadace td, .zadace th {
+	padding: 3px 10px;
+	border-bottom: 1px solid silver;
+	border-right: 1px solid silver;
+}
+.zadace tr:hover {
+	background: #f2f2f2;
+}
+.zadace th {
+	background-color: #CCC;
+}
+.zadace sup {
+	color: gray;
+}
+.rok-istekao {
+	color: #F00;
+}
+.trenutna-zadaca {
+	background-color: #DDF;
+}
